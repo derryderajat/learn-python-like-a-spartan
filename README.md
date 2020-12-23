@@ -1,7 +1,7 @@
 # learn-python-like-a-spartan
 
 
-- Open files **Learn_Python_Like_a_Spartan.ipynb**
+- Open file **Learn_Python_Like_a_Spartan.ipynb**
 - Click badge **Open in Colab**
 - Run each cell and learn python **like a spartan!**
 
